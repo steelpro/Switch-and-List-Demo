@@ -41,7 +41,6 @@ namespace List_Demo_1 {
                     break;
             }
         }
-
         private void lblTimeZone_Click(object sender, EventArgs e) { }
     } 
 }
